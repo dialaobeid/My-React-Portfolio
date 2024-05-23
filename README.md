@@ -1,5 +1,5 @@
 # My-React-Portfolio
-- Project Description: Being a web developer means being part of a community. YWith this portfolio, I am able to share my projects while applying for jobs or working as a freelancer. I can also to share my work with other developers and collaborate on projects. The application will be deployed on Netlify.
+- Project Description: Being a web developer means being part of a community. With this portfolio, I am able to share my projects while applying for jobs or working as a freelancer. I can also to share my work with other developers and collaborate on projects. The application will be deployed on Netlify.
 
 ## User Story
 

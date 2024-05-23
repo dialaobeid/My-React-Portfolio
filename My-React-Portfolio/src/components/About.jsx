@@ -9,7 +9,7 @@ function About() {
       <p>Welcome to my professional portfolio! I am a recent graduate from UCI with bachelors degree in Biological Sciences. 
         I am currently pursuing a masters degree. I am also completing a bootcamp to build a career in web development. 
         You can see all the projects I have worked on over the course of the bootcamp under my portfolio.
-        My Github profile can be found below.
+        My Github and LinkedIn profiles can be found below.
       </p>
     </section>
   );

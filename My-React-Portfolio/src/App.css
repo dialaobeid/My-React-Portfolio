@@ -4,6 +4,8 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  box-sizing: border-box;
+  overflow: hidden; /* Ensure no overflow */
 }
 
 /* Logo styles */
@@ -49,7 +51,7 @@
 
 /* Avatar styles */
 .avatar {
-  width: 100x;  
+  width: 100px;  
   height: 100px; 
   border-radius: 50%; /* to make avatar round */
 }
