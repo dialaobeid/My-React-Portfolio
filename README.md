@@ -44,4 +44,4 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 - link to deployed application: https://dialas-portfolio.netlify.app
 
 ## Screenshot of App
-![Alt text](/My-React-Portfolio/My-React-Portfolio/src/assets/images/Portfolio-Screenshot.png)
+![Alt text](././My-React-Portfolio/src/assets/images/Portfolio-Screenshot.png)
