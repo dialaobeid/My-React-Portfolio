@@ -1,5 +1,5 @@
 [build]
-  base = "My-React-Portfolio/My-React-Portfolio"
+  base = "My-React-Portfolio"
   publish = "My-React-Portfolio/dist"
   command = "npm run build"
 
