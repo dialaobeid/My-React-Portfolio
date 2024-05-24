@@ -41,4 +41,4 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Links
 - link to Github repo: https://github.com/dialaobeid/My-React-Portfolio
-- link to deployed application: 
+- link to deployed application: https://dialas-portfolio.netlify.app
