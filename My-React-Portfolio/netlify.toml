@@ -1,3 +1,11 @@
+[build]
+  base = "My-React-Portfolio/My-React-Portfolio"
+  publish = "My-React-Portfolio/dist"
+  command = "npm run build"
+
+[functions]
+  directory = "My-React-Portfolio/netlify/functions"
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
