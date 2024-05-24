@@ -1,6 +1,6 @@
 [build]
   base = "My-React-Portfolio"
-  publish = "My-React-Portfolio/dist"
+  publish = "dist"
   command = "npm run build"
 
 [functions]
